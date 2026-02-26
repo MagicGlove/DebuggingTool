@@ -1,0 +1,131 @@
+Level69 deep_test:
+  .x = 0x00000000
+  Level68 nested:
+    .x = 0x00000000
+    Level67 nested:
+      .x = 0x00000000
+      Level66 nested:
+        .x = 0x00000000
+        Level65 nested:
+          .x = 0x00000000
+          Level64 nested:
+            .x = 0x00000000
+            Level63 nested:
+              .x = 0x00000000
+              Level62 nested:
+                .x = 0x00000000
+                Level61 nested:
+                  .x = 0x00000000
+                  Level60 nested:
+                    .x = 0x00000000
+                    Level59 nested:
+                      .x = 0x00000000
+                      Level58 nested:
+                        .x = 0x00000000
+                        Level57 nested:
+                          .x = 0x00000000
+                          Level56 nested:
+                            .x = 0x00000000
+                            Level55 nested:
+                              .x = 0x00000000
+                              Level54 nested:
+                                .x = 0x00000000
+                                Level53 nested:
+                                  .x = 0x00000000
+                                  Level52 nested:
+                                    .x = 0x00000000
+                                    Level51 nested:
+                                      .x = 0x00000000
+                                      Level50 nested:
+                                        .x = 0x00000000
+                                        Level49 nested:
+                                          .x = 0x00000000
+                                          Level48 nested:
+                                            .x = 0x00000000
+                                            Level47 nested:
+                                              .x = 0x00000000
+                                              Level46 nested:
+                                                .x = 0x00000000
+                                                Level45 nested:
+                                                  .x = 0x00000000
+                                                  Level44 nested:
+                                                    .x = 0x00000000
+                                                    Level43 nested:
+                                                      .x = 0x00000000
+                                                      Level42 nested:
+                                                        .x = 0x00000000
+                                                        Level41 nested:
+                                                          .x = 0x00000000
+                                                          Level40 nested:
+                                                            .x = 0x00000000
+                                                            Level39 nested:
+                                                              .x = 0x00000000
+                                                              Level38 nested:
+                                                                .x = 0x00000000
+                                                                Level37 nested:
+                                                                  .x = 0x00000000
+                                                                  Level36 nested:
+                                                                    .x = 0x00000000
+                                                                    Level35 nested:
+                                                                      .x = 0x00000000
+                                                                      Level34 nested:
+                                                                        .x = 0x00000000
+                                                                        Level33 nested:
+                                                                          .x = 0x00000000
+                                                                          Level32 nested:
+                                                                            .x = 0x00000000
+                                                                            Level31 nested:
+                                                                              .x = 0x00000000
+                                                                              Level30 nested:
+                                                                                .x = 0x00000000
+                                                                                Level29 nested:
+                                                                                  .x = 0x00000000
+                                                                                  Level28 nested:
+                                                                                    .x = 0x00000000
+                                                                                    Level27 nested:
+                                                                                      .x = 0x00000000
+                                                                                      Level26 nested:
+                                                                                        .x = 0x00000000
+                                                                                        Level25 nested:
+                                                                                          .x = 0x00000000
+                                                                                          Level24 nested:
+                                                                                            .x = 0x00000000
+                                                                                            Level23 nested:
+                                                                                              .x = 0x00000000
+                                                                                              Level22 nested:
+                                                                                                .x = 0x00000000
+                                                                                                Level21 nested:
+                                                                                                  .x = 0x00000000
+                                                                                                  Level20 nested:
+                                                                                                    .x = 0x00000000
+                                                                                                    Level19 nested:
+                                                                                                      .x = 0x00000000
+                                                                                                      Level18 nested:
+                                                                                                        .x = 0x00000000
+                                                                                                        Level17 nested:
+                                                                                                          .x = 0x00000000
+                                                                                                          Level16 nested:
+                                                                                                            .x = 0x00000000
+                                                                                                            Level15 nested:
+                                                                                                              .x = 0x00000000
+                                                                                                              Level14 nested:
+                                                                                                                .x = 0x00000000
+                                                                                                                Level13 nested:
+                                                                                                                  .x = 0x00000000
+                                                                                                                  Level12 nested:
+                                                                                                                    .x = 0x00000000
+                                                                                                                    Level11 nested:
+                                                                                                                      .x = 0x00000000
+                                                                                                                      Level10 nested:
+                                                                                                                        .x = 0x00000000
+                                                                                                                        Level9 nested:
+                                                                                                                          .x = 0x00000000
+                                                                                                                          Level8 nested:
+                                                                                                                            .x = 0x00000000
+                                                                                                                            Level7 nested:
+                                                                                                                              .x = 0x00000000
+                                                                                                                              Level6 nested:
+                                                                                                                                .x = 0x00000000
+                                                                                                                                Level5 nested:
+                                                                                                                                  .x = 0x00000000
+                                                                                                                                  Level4 nested (max nesting reached)
