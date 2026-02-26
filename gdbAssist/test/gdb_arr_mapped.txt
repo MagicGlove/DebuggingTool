@@ -1,0 +1,11 @@
+Container myContainer:
+  .count = 0xaabbccdd
+  Item items[0]:
+    .id = 0x00000001
+    .value = 0x00000002
+  Item items[1]:
+    .id = 0x00000003
+    .value = 0x00000004
+  Item items[2]:
+    .id = 0x00000005
+    .value = 0x00000006
